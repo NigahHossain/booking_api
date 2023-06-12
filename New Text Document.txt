@@ -1,0 +1,1 @@
+newman run Booking.postman_collection.json -e RandomEnv.postman_environment.json -r cli,html
